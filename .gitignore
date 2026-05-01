@@ -1,0 +1,19 @@
+# Environment & config files with secrets
+.env
+.env.*
+config.php
+wp-config.php        # if WordPress
+configuration.php    # if Joomla
+
+# cPanel-specific internals
+.htpasswd
+error_log
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Dependencies (if any)
+node_modules/
+vendor/
