@@ -16,11 +16,11 @@
 						<!-- Facebook Open Graph end -->
 
 		<meta name="generator" content="Website Builder" />
-			<script src="js/common-bundle.js?ts=20260502144837" type="text/javascript"></script>
-	<script src="js/a188dd9cfa970054082e97d0725cb93a-bundle.js?ts=20260502144837" type="text/javascript"></script>
-	<link href="css/common-bundle.css?ts=20260502144837" rel="stylesheet" type="text/css" />
+			<script src="js/common-bundle.js?ts=20260502150106" type="text/javascript"></script>
+	<script src="js/a188dd9cfa970054082e97d0725cb93a-bundle.js?ts=20260502150106" type="text/javascript"></script>
+	<link href="css/common-bundle.css?ts=20260502150106" rel="stylesheet" type="text/css" />
 	<link href="https://fonts.googleapis.com/css?family=Exo+2:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=cyrillic,cyrillic-ext,latin,latin-ext,vietnamese" rel="stylesheet" type="text/css" />
-	<link href="css/a188dd9cfa970054082e97d0725cb93a-bundle.css?ts=20260502144837" rel="stylesheet" type="text/css" id="wb-page-stylesheet" />
+	<link href="css/a188dd9cfa970054082e97d0725cb93a-bundle.css?ts=20260502150106" rel="stylesheet" type="text/css" id="wb-page-stylesheet" />
 	<ga-code/><!-- HTML Meta Tags -->
 <title>CryptoPandemic Official Website</title>
 <meta name="description" content="Welcome to CryptoPandemic's Official Website!">

@@ -85,7 +85,7 @@
 	$langs = null;
 	$def_lang = null;
 	$base_lang = 'en';
-	$site_id = 'f6b32d5c';
+	$site_id = '0f4501a1';
 	${'sitemapUrls'} = array(
 		'https://cryptopandemic.com/'
 	);
