@@ -5,9 +5,9 @@
 # Pulls latest files from cPanel server into ./public_html/
 # then commit manually after reviewing the diff.
 
-CPANEL_USER="your_cpanel_username"
-CPANEL_HOST="your_server_ip_or_hostname"   # e.g. server123.namecheap.com
-REMOTE_PATH="/home/$CPANEL_USER/public_html/cryptopandemic.com"
+CPANEL_USER="georznmu"
+CPANEL_HOST="premium85.web-hosting.com"# e.g. server123.namecheap.com
+REMOTE_PATH="/home/$CPANEL_USER/cryptopandemic.com"
 LOCAL_PATH="$(dirname "$0")/../public_html"
 
 echo "🔄 Syncing from $CPANEL_HOST..."
