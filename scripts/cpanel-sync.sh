@@ -2,17 +2,15 @@
 
 # ── CryptoPandemic – cPanel → Local Sync ──────────────────────────
 # Usage: ./scripts/cpanel-sync.sh
-# Pulls latest files from cPanel server into ./public_html/
-# then commit manually after reviewing the diff.
 
 CPANEL_USER="georznmu"
-CPANEL_HOST="premium85.web-hosting.com"# e.g. server123.namecheap.com
+CPANEL_HOST="premium85.web-hosting.com"
 REMOTE_PATH="/home/$CPANEL_USER/cryptopandemic.com"
 LOCAL_PATH="$(dirname "$0")/../public_html"
 
 echo "🔄 Syncing from $CPANEL_HOST..."
 
-rsync -avz --delete \
+rsync -avz --delete -e "ssh -p 21098" \
   --exclude='.git/' \
   --exclude='*.log' \
   --exclude='*.bak' \
