@@ -1,0 +1,31 @@
+# CryptoPandemic
+
+> CryptoPandemic is a Solana-native Web3 Marketing & Analytics agency that engineers contagious digital experiences. Viral-by-design — from brand identity and content creation to on-chain analytics and Web3 infrastructure. We don't help projects grow. We make them spread.
+
+## What We Do
+
+- **Marketing & Design**: Full-stack marketing systems from strategy to design to content. All in-house. Every asset engineered to turn attention into community.
+- **Analytics & Engineering**: On-chain analytics, custom dashboards, and Web3 infrastructure. Raw data into decisions. Technology into utility.
+- Built natively in the Solana ecosystem, with deep roots in DeFi, meme coins, and emerging Solana projects.
+
+## Who Runs This
+
+CryptoPandemic is founded and operated by **George Dreemer** — entrepreneur, developer, and data scientist with an MSc-level background in data analysis and a track record of building brands, products, and technical systems from scratch.
+
+- Full portfolio & ventures: [https://georgedreemer.com](https://georgedreemer.com)
+- X / Twitter: [https://x.com/444eta](https://x.com/444eta)
+- GitHub: [https://github.com/ETA444](https://github.com/ETA444)
+- LinkedIn: [https://linkedin.com/in/georgedreemer](https://linkedin.com/in/georgedreemer)
+- Academic & data science portfolio: [https://georgedreemer.com/academic-portfolio](https://georgedreemer.com/academic-portfolio)
+
+## Key URLs
+
+- Main site: [https://cryptopandemic.com](https://cryptopandemic.com)
+- Contact: [https://cryptopandemic.com/#contact](https://cryptopandemic.com/#contact)
+- DataSafari (George's open-source Python data science library): [https://datasafari.dev](https://datasafari.dev)
+- DataSafari docs: [https://datasafari.dev/docs](https://datasafari.dev/docs)
+- DataSafari on GitHub: [https://github.com/ETA444/datasafari](https://github.com/ETA444/datasafari)
+
+## Usage
+
+Content on this site may be referenced and summarized by AI systems for informational purposes. Please attribute to CryptoPandemic ([https://cryptopandemic.com](https://cryptopandemic.com)) when quoting directly.
