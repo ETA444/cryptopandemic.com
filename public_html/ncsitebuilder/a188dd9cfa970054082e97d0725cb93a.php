@@ -18,11 +18,11 @@
 					<!-- Facebook Open Graph end -->
 
 		<meta name="generator" content="Website Builder" />
-			<script src="js/common-bundle.js?ts=20260504144528" type="text/javascript"></script>
-	<script src="js/a188dd9cfa970054082e97d0725cb93a-bundle.js?ts=20260504144528" type="text/javascript"></script>
-	<link href="css/common-bundle.css?ts=20260504144528" rel="stylesheet" type="text/css" />
+			<script src="js/common-bundle.js?ts=20260504151214" type="text/javascript"></script>
+	<script src="js/a188dd9cfa970054082e97d0725cb93a-bundle.js?ts=20260504151214" type="text/javascript"></script>
+	<link href="css/common-bundle.css?ts=20260504151214" rel="stylesheet" type="text/css" />
 	<link href="https://fonts.googleapis.com/css?family=Exo+2:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=cyrillic,cyrillic-ext,latin,latin-ext,vietnamese" rel="stylesheet" type="text/css" />
-	<link href="css/a188dd9cfa970054082e97d0725cb93a-bundle.css?ts=20260504144528" rel="stylesheet" type="text/css" id="wb-page-stylesheet" />
+	<link href="css/a188dd9cfa970054082e97d0725cb93a-bundle.css?ts=20260504151214" rel="stylesheet" type="text/css" id="wb-page-stylesheet" />
 	<ga-code/><!-- Foundational -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -81,7 +81,7 @@ mixpanel.init("", {
 	window.disableRightClick = false;
 	window.currLang = 'en';
 </script>
-		
+	<script src="https://www.google.com/recaptcha/enterprise.js?render=6Ld1cxgqAAAAAOVKHfyBhh2x9LJjmfHxQQbapcBc"></script>	
 	<!--[if lt IE 9]>
 	<script src="js/html5shiv.min.js"></script>
 	<![endif]-->
@@ -122,5 +122,71 @@ mixpanel.init("", {
 					footer.css({height: ""});
 				}
 			});
-			</script></div></div></div></div>{{hr_out}}</body>
+			</script></div></div></div><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://cryptopandemic.com#organization",
+      "name": "CryptoPandemic",
+      "url": "https://cryptopandemic.com",
+      "logo": "https://cryptopandemic.com/images/brand-assets/logo-cryptopandemic.png",
+      "description": "CryptoPandemic engineers contagious Web3 experiences — from brand identity to on-chain strategy. Full-stack marketing, design, and analytics for Solana projects.",
+      "foundingDate": "2024",
+      "knowsAbout": [
+        "Web3 Marketing",
+        "Solana Ecosystem",
+        "Blockchain Analytics",
+        "Crypto Branding",
+        "On-chain Strategy",
+        "Content Creation",
+        "Data-driven Marketing"
+      ],
+      "sameAs": [
+        "https://x.com/444eta",
+        "https://github.com/ETA444"
+      ],
+      "founder": {
+        "@type": "Person",
+        "@id": "https://georgedreemer.com/#person",
+        "name": "George Dreemer",
+        "url": "https://georgedreemer.com",
+        "jobTitle": "Founder & Creative Director",
+        "sameAs": [
+          "https://x.com/444eta",
+          "https://github.com/ETA444",
+          "https://linkedin.com/in/georgedreemer",
+          "https://georgedreemer.com"
+        ]
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://cryptopandemic.com/#website",
+      "url": "https://cryptopandemic.com",
+      "name": "CryptoPandemic",
+      "publisher": {
+        "@id": "https://cryptopandemic.com/#organization"
+      }
+    },
+    {
+      "@type": "Service",
+      "name": "Web3 Marketing & Content",
+      "provider": { "@id": "https://cryptopandemic.com/#organization" },
+      "description": "Full-stack marketing systems from strategy to design to content. All in-house. Engineered to turn attention into community.",
+      "areaServed": "Worldwide",
+      "serviceType": "Web3 Marketing"
+    },
+    {
+      "@type": "Service",
+      "name": "Analytics & Engineering",
+      "provider": { "@id": "https://cryptopandemic.com/#organization" },
+      "description": "On-chain analytics, custom dashboards, and Web3 infrastructure engineered to turn raw data into decisions and technology into utility.",
+      "areaServed": "Worldwide",
+      "serviceType": "Blockchain Analytics"
+    }
+  ]
+}
+</script></div>{{hr_out}}</body>
 </html>
