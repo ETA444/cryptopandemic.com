@@ -4,44 +4,79 @@
 	<script type="text/javascript">
 			</script>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<title><?php echo htmlspecialchars((isset($seoTitle) && $seoTitle !== "") ? $seoTitle : "CryptoPandemic's Official Website"); ?></title>
+	<title><?php echo htmlspecialchars((isset($seoTitle) && $seoTitle !== "") ? $seoTitle : "CryptoPandemic — Viral Web3 Marketing & Analytics on Solana"); ?></title>
 	<base href="{{base_url}}" />
 	<?php echo isset($sitemapUrls) ? (generateCanonicalUrl($sitemapUrls)."\n") : ""; ?>	
 	
-						<meta name="viewport" content="width=device-width, initial-scale=1" />
-						<meta name="keywords" content="<?php echo htmlspecialchars((isset($seoKeywords) && $seoKeywords !== "") ? $seoKeywords : "crypto,pandemic,cryptopandemic,george dreemer,datasafari,skipschoolmakemoney,bitcoin,ethereum,crypto news,crypto blog,crypto reddit,dreemcorp"); ?>" />
-			
+			<meta name="description" content="<?php echo htmlspecialchars((isset($seoDescription) && $seoDescription !== "") ? $seoDescription : "CryptoPandemic engineers contagious Web3 experiences — from brand identity to on-chain strategy. Full-stack marketing, design, and analytics for Solana projects. We don't help projects grow. We make them spread."); ?>" />
+			<meta name="keywords" content="<?php echo htmlspecialchars((isset($seoKeywords) && $seoKeywords !== "") ? $seoKeywords : "web3 marketing,solana marketing,crypto marketing agency,blockchain analytics,web3 design,on-chain strategy,solana growth,brand identity web3,crypto brand strategy,web3 community building,web3 content creation,data-driven marketing,solana analytics,full-stack marketing web3,web3 engineering,crypto project growth,viral marketing web3,crypto analytics,solana projects,blockchain marketing agency"); ?>" />
+				<meta property="og:site_name" content="CryptoPandemic — Viral Web3 Marketing & Analytics on Solana">
+	
 	<!-- Facebook Open Graph -->
-						<!-- Facebook Open Graph end -->
+			<meta property="og:description" content="<?php echo htmlspecialchars((isset($seoDescription) && $seoDescription !== "") ? $seoDescription : "CryptoPandemic engineers contagious Web3 experiences — from brand identity to on-chain strategy. Full-stack marketing, design, and analytics for Solana projects. We don't help projects grow. We make them spread."); ?>" />
+					<!-- Facebook Open Graph end -->
 
 		<meta name="generator" content="Website Builder" />
-			<script src="js/common-bundle.js?ts=20260502150106" type="text/javascript"></script>
-	<script src="js/a188dd9cfa60000804666376dffe914b-bundle.js?ts=20260502150106" type="text/javascript"></script>
-	<link href="css/common-bundle.css?ts=20260502150106" rel="stylesheet" type="text/css" />
+			<script src="js/common-bundle.js?ts=20260504144528" type="text/javascript"></script>
+	<script src="js/a188dd9cfa60000804666376dffe914b-bundle.js?ts=20260504144528" type="text/javascript"></script>
+	<link href="css/common-bundle.css?ts=20260504144528" rel="stylesheet" type="text/css" />
 	<link href="https://fonts.googleapis.com/css?family=Exo+2:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=cyrillic,cyrillic-ext,latin,latin-ext,vietnamese" rel="stylesheet" type="text/css" />
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese" rel="stylesheet" type="text/css" />
 	<link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=devanagari,latin,latin-ext" rel="stylesheet" type="text/css" />
-	<link href="css/a188dd9cfa60000804666376dffe914b-bundle.css?ts=20260502150106" rel="stylesheet" type="text/css" id="wb-page-stylesheet" />
-	<ga-code/><!-- HTML Meta Tags -->
-<title>CryptoPandemic Official Website</title>
-<meta name="description" content="Welcome to CryptoPandemic's Official Website!">
-<meta name="author" content="George Dreemer">
-<meta name="robots" content="index, follow">
+	<link href="css/a188dd9cfa60000804666376dffe914b-bundle.css?ts=20260504144528" rel="stylesheet" type="text/css" id="wb-page-stylesheet" />
+	<ga-code/><!-- Foundational -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!-- Facebook Meta Tags -->
-<meta property="og:url" content="https://cryptopandemic.com">
-<meta property="og:type" content="website">
-<meta property="og:title" content="CryptoPandemic's Official Website">
-<meta property="og:description" content="Welcome to CryptoPandemic's Official Website!">
-<meta property="og:image" content="https://cryptopandemic.com/gallery_gen/e6752594e756a7de0a81a328e4fdf98a_fit.png">
+    <!-- Primary SEO -->
+    <title>CryptoPandemic — Viral Web3 Marketing & Analytics on Solana</title>
+    <meta name="description"
+        content="CryptoPandemic engineers contagious Web3 experiences — from brand identity to on-chain strategy. Full-stack marketing, design, and analytics for Solana projects. We don't help projects grow. We make them spread.">
+    <meta name="keywords"
+        content="web3 marketing, solana marketing, crypto marketing agency, blockchain analytics, web3 design, on-chain strategy, solana growth, brand identity web3, crypto brand strategy, web3 community building, web3 content creation, data-driven marketing, solana analytics, full-stack marketing web3, web3 engineering, crypto project growth, viral marketing web3, crypto analytics, solana projects, blockchain marketing agency">
+    <meta name="author" content="George Dreemer">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://cryptopandemic.com/">
 
-<!-- Twitter Meta Tags -->
-<meta name="twitter:card" content="summary_large_image">
-<meta property="twitter:domain" content="cryptopandemic.com">
-<meta property="twitter:url" content="https://cryptopandemic.com">
-<meta name="twitter:title" content="CryptoPandemic's Official Website">
-<meta name="twitter:description" content="Welcome to CryptoPandemic's Official Website!">
-<meta name="twitter:image" content="https://cryptopandemic.com/gallery_gen/e6752594e756a7de0a81a328e4fdf98a_fit.png"><link rel="shortcut icon" href="gallery/favicons/favicon.ico" type="image/x-icon">
+    <!-- Mobile & browser chrome -->
+    <meta name="theme-color" content="#866cba">
+    <meta name="color-scheme" content="dark light">
+    <meta name="format-detection" content="telephone=no">
+
+    <!-- Geo & distribution -->
+    <meta name="geo.region" content="AE">
+    <meta name="coverage" content="Worldwide">
+    <meta name="distribution" content="Global">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://cryptopandemic.com/">
+    <meta property="og:title" content="CryptoPandemic — Viral Web3 Marketing & Analytics on Solana">
+    <meta property="og:description"
+        content="CryptoPandemic engineers contagious Web3 experiences — from brand identity to on-chain strategy. We don't help projects grow. We make them spread.">
+    <meta property="og:image" content="https://cryptopandemic.com/images/landing/og-image.png">
+    <meta property="og:site_name" content="CryptoPandemic">
+
+    <!-- Twitter / X Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@444eta">
+    <meta name="twitter:creator" content="@444eta">
+    <meta name="twitter:title" content="CryptoPandemic — Viral Web3 Marketing & Analytics on Solana">
+    <meta name="twitter:description"
+        content="CryptoPandemic engineers contagious Web3 experiences. We don't help projects grow. We make them spread.">
+    <meta name="twitter:image" content="https://cryptopandemic.com/images/landing/og-image.png"><link rel="shortcut icon" href="gallery/favicons/favicon.ico" type="image/x-icon"><meta name="google-site-verification" content="" /><script type="text/javascript">
+  (function (f, b) { if (!b.__SV) { var e, g, i, h; window.mixpanel = b; b._i = []; b.init = function (e, f, c) { function g(a, d) { var b = d.split("."); 2 == b.length && ((a = a[b[0]]), (d = b[1])); a[d] = function () { a.push([d].concat(Array.prototype.slice.call(arguments, 0))); }; } var a = b; "undefined" !== typeof c ? (a = b[c] = []) : (c = "mixpanel"); a.people = a.people || []; a.toString = function (a) { var d = "mixpanel"; "mixpanel" !== c && (d += "." + c); a || (d += " (stub)"); return d; }; a.people.toString = function () { return a.toString(1) + ".people (stub)"; }; i = "disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking start_batch_senders people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split( " "); for (h = 0; h < i.length; h++) g(a, i[h]); var j = "set set_once union unset remove delete".split(" "); a.get_group = function () { function b(c) { d[c] = function () { call2_args = arguments; call2 = [c].concat(Array.prototype.slice.call(call2_args, 0)); a.push([e, call2]); }; } for ( var d = {}, e = ["get_group"].concat( Array.prototype.slice.call(arguments, 0)), c = 0; c < j.length; c++) b(j[c]); return d; }; b._i.push([e, f, c]); }; b.__SV = 1.2; e = f.createElement("script"); e.type = "text/javascript"; e.async = !0; e.src = "undefined" !== typeof MIXPANEL_CUSTOM_LIB_URL ? MIXPANEL_CUSTOM_LIB_URL : "file:" === f.location.protocol && "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//) ? "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js" : "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"; g = f.getElementsByTagName("script")[0]; g.parentNode.insertBefore(e, g); } })(document, window.mixpanel || []);
+ 
+// Near entry of your product, init Mixpanel
+mixpanel.init("", {
+  api_host: "https://api-eu.mixpanel.com",
+  debug: true,
+  track_pageview: true,
+  persistence: "localStorage",
+  record_sessions_percent: 100, //records 100% of all sessions
+  record_heatmap_data: true,
+});
+</script>
 	<script type="text/javascript">
 	window.useTrailingSlashes = false;
 	window.disableRightClick = false;
@@ -76,7 +111,7 @@
 </head>
 
 
-<body class="site site-lang-en<?php if (isset($wbPopupMode) && $wbPopupMode) echo ' popup-mode'; ?> " <?php ?>><div id="wb_root" class="root wb-layout-vertical"><div class="wb_sbg"></div><div id="wb_header_a188dd9cfa60000804666376dffe914b" class="wb_element wb-sticky wb-layout-element" data-plugin="LayoutElement" data-h-align="center" data-v-align="top"><div class="wb_content wb-layout-vertical"><div id="a190eac54197008035e9335e6990b156" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="a190eace4c340046607af6d3ceecb501" class="wb_element wb_element_picture" data-plugin="Picture" title=""><div class="wb_picture_wrap"><div class="wb-picture-wrapper"><img loading="lazy" alt="" src="gallery_gen/36043f11bd40c991d924a62911ddccd4_222x222_fit.png?ts=1777723267"></div></div></div><div id="a190eac541a4006511594596398175ae" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="a190eac541a7003d6c9988274fb9b352" class="wb_element wb-menu wb-prevent-layout-click wb-anim wb-anim-move-up" data-plugin="Menu"><?php MenuElement::render((object) array(
+<body class="site site-lang-en<?php if (isset($wbPopupMode) && $wbPopupMode) echo ' popup-mode'; ?> " <?php ?>><div id="wb_root" class="root wb-layout-vertical"><div class="wb_sbg"></div><div id="wb_header_a188dd9cfa60000804666376dffe914b" class="wb_element wb-sticky wb-layout-element" data-plugin="LayoutElement" data-h-align="center" data-v-align="top"><div class="wb_content wb-layout-vertical"><div id="a190eac54197008035e9335e6990b156" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="a190eace4c340046607af6d3ceecb501" class="wb_element wb_element_picture" data-plugin="Picture" title=""><div class="wb_picture_wrap"><div class="wb-picture-wrapper"><img loading="lazy" alt="" src="gallery_gen/36043f11bd40c991d924a62911ddccd4_222x222_fit.png?ts=1777895129"></div></div></div><div id="a190eac541a4006511594596398175ae" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="a190eac541a7003d6c9988274fb9b352" class="wb_element wb-menu wb-prevent-layout-click wb-anim wb-anim-move-up" data-plugin="Menu"><?php MenuElement::render((object) array(
 	'type' => 'hmenu',
 	'dir' => 'ltr',
 	'items' => array(
@@ -93,10 +128,10 @@
 	)
 )); ?><div class="clearfix"></div></div></div></div></div></div></div></div><div id="wb_main_a188dd9cfa60000804666376dffe914b" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="a188dd9ceaf9062e31cd48cbb6ca84ba" class="wb_element wb-layout-element" data-plugin="LayoutElement"><a name="home" class="wb_anchor"></a><div class="wb_content wb-layout-horizontal"><div id="a188dd9ceaf9062e31cd48cbb6ca84ba_video_background" class="wb_video_background" data-video="gallery/Outro-Landscape-NFAA-FrontPage_compressed1 - COMPRESS.mp4" data-start="1" data-end=""></div></div></div><div id="a190eb4499c400e12dd9befad032b5d0" class="wb_element wb-elm-orient-horizontal" data-plugin="Line"><div class="wb-elm-line"></div></div><div id="a188dd9ceaf90c3d52908e3e83685b12" class="wb_element wb-anim-entry wb-anim wb-anim-fade-in-none wb-layout-element" data-plugin="LayoutElement" data-wb-anim-entry-time="0.6" data-wb-anim-entry-delay="0"><div class="wb_content wb-layout-vertical"><div id="a19ddf20688200f9db07227430bd0198" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h4 class="wb-stl-pagetitle" style="text-align: center;">Viral-by-Design. Marketing &amp; Analytics for Web3.</h4>
 </div><div id="a188dd9ceaf90ef70de43eda6b93739e" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><p class="wb-stl-normal" style="text-align: center;">CryptoPandemic engineers contagious Web3 experiences. From brand identity to on-chain strategy. We don't help projects grow. We make them spread.</p>
-</div><div id="a19dd9afa1c6007d7b9f2828ad0b5777" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="a19dd9b4b97f0089d52b746cb39ed058" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="a19ddec339600065d73f3ff88b8a6995" class="wb_element wb_element_picture" data-plugin="Picture" title=""><div class="wb_picture_wrap"><div class="wb-picture-wrapper"><img loading="lazy" alt="" src="gallery_gen/5f3138619308e1550ce135d4a0a5e215_344x344_fit.png?ts=1777723267"></div></div></div><div id="a19ddf1bad7b00f0f6db2cbfca0f5ea0" class="wb_element wb_element_picture" data-plugin="Picture" title=""><div class="wb_picture_wrap"><div class="wb-picture-wrapper"><img loading="lazy" alt="" src="gallery_gen/5f3138619308e1550ce135d4a0a5e215_360x360_fit.png?ts=1777723267"></div></div></div><div id="a19dd9afa1d800c9fa5c0fbcbebdfa47" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="a19dd9afa1da00c16ec54e57e94051b9" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h5 class="wb-stl-subtitle" style="text-align: center;">Marketing &amp; Design</h5>
+</div><div id="a19dd9afa1c6007d7b9f2828ad0b5777" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="a19dd9b4b97f0089d52b746cb39ed058" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="a19ddec339600065d73f3ff88b8a6995" class="wb_element wb_element_picture" data-plugin="Picture" title=""><div class="wb_picture_wrap"><div class="wb-picture-wrapper"><img loading="lazy" alt="" src="gallery_gen/5f3138619308e1550ce135d4a0a5e215_344x344_fit.png?ts=1777895129"></div></div></div><div id="a19ddf1bad7b00f0f6db2cbfca0f5ea0" class="wb_element wb_element_picture" data-plugin="Picture" title=""><div class="wb_picture_wrap"><div class="wb-picture-wrapper"><img loading="lazy" alt="" src="gallery_gen/5f3138619308e1550ce135d4a0a5e215_360x360_fit.png?ts=1777895129"></div></div></div><div id="a19dd9afa1d800c9fa5c0fbcbebdfa47" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="a19dd9afa1da00c16ec54e57e94051b9" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h5 class="wb-stl-subtitle" style="text-align: center;">Marketing &amp; Design</h5>
 </div><div id="a19ddf02b94d0022027255887fa13593" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h3 class="wb-stl-heading3" style="text-align: center;"><em>Strategy and content at Web3 speed.</em></h3>
 </div><div id="a19dd9afa1dc008da616f59bff1244f5" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><p class="wb-stl-normal" style="text-align: center;"><font color="#ffffff">We build full-stack marketing systems from strategy to design to content. All in-house. Every asset is created with the goal of turning attention into community.</font></p>
-</div></div></div></div></div><div id="a19ddf0a0d8600199de0b96b1447ce6e" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="a19ddf0a0d890031cc7942df7a2f0f6a" class="wb_element wb_element_picture" data-plugin="Picture" title=""><div class="wb_picture_wrap"><div class="wb-picture-wrapper"><img loading="lazy" alt="" src="gallery_gen/0a945a6cd75aee51e2a3b3ec1f1b1db7_344x344_fit.png?ts=1777723267"></div></div></div><div id="a19ddf1cbe21004de74ef948a7e0f60f" class="wb_element wb_element_picture" data-plugin="Picture" title=""><div class="wb_picture_wrap"><div class="wb-picture-wrapper"><img loading="lazy" alt="" src="gallery_gen/0a945a6cd75aee51e2a3b3ec1f1b1db7_360x360_fit.png?ts=1777723267"></div></div></div><div id="a19ddf0a0d8e00be96bde12652c2020e" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="a19ddf0a0d8f001b51347d7187f9c2c2" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h5 class="wb-stl-subtitle" style="text-align: center;">Analytics &amp; Engineering</h5>
+</div></div></div></div></div><div id="a19ddf0a0d8600199de0b96b1447ce6e" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="a19ddf0a0d890031cc7942df7a2f0f6a" class="wb_element wb_element_picture" data-plugin="Picture" title=""><div class="wb_picture_wrap"><div class="wb-picture-wrapper"><img loading="lazy" alt="" src="gallery_gen/0a945a6cd75aee51e2a3b3ec1f1b1db7_344x344_fit.png?ts=1777895129"></div></div></div><div id="a19ddf1cbe21004de74ef948a7e0f60f" class="wb_element wb_element_picture" data-plugin="Picture" title=""><div class="wb_picture_wrap"><div class="wb-picture-wrapper"><img loading="lazy" alt="" src="gallery_gen/0a945a6cd75aee51e2a3b3ec1f1b1db7_360x360_fit.png?ts=1777895129"></div></div></div><div id="a19ddf0a0d8e00be96bde12652c2020e" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="a19ddf0a0d8f001b51347d7187f9c2c2" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h5 class="wb-stl-subtitle" style="text-align: center;">Analytics &amp; Engineering</h5>
 </div><div id="a19ddf0a0d920041d5785601efaaa104" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h3 class="wb-stl-heading3" style="text-align: center;"><i>Data-driven from start to finish.</i></h3>
 </div><div id="a19ddf0a0d940070babd7cce320a2fe2" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><p class="wb-stl-normal" style="text-align: center;"><font color="#ffffff">Data is the backbone of Web3, from social media to on-chain analytics, all engineered to turn raw data into decisions and technology into utility.</font></p>
 </div></div></div></div></div></div></div></div></div><div id="a19de804e64000c86ce28499f1f7459c" class="wb_element wb-anim-entry wb-anim wb-anim-fade-in-none wb-layout-element" data-plugin="LayoutElement" data-wb-anim-entry-time="0.6" data-wb-anim-entry-delay="0"><div class="wb_content wb-layout-vertical"><div id="a19de804e642007980ade9d991c91d79" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h4 class="wb-stl-pagetitle" style="text-align: center;">Built on Solana</h4>
@@ -259,16 +294,16 @@
 
 <p class="wb-stl-footer" style="text-align: center;"><a data-_="Link" href="https://www.datasafari.dev" target="_blank" title="DataSafari Official Website">datasafari.dev</a></p>
 
-<p class="wb-stl-footer" style="text-align: center;"><a data-_="Link" href="https://www.georgedreemer.com" target="_blank" title="George Dreemer Official Website">georgedreemer.com</a></p>
-
 <p class="wb-stl-footer" style="text-align: center;"><a data-_="Link" href="https://www.skipschoolmakemoney.com" target="_blank" title="SkipSchoolMakeMoney Official Website">skipschoolmakemoney.com</a></p>
 
-<p class="wb-stl-footer" style="text-align: center;"><a data-_="Link" href="https://www.dreemcorp.com" target="_blank" title="DREEMCORP Official Website">dreemcorp.com</a></p>
-
 <p class="wb-stl-footer" style="text-align: center;"><a data-_="Link" href="https://www.youtube.com/@anabolicmusick" target="_blank" title="Anabolick Music's Official Website">anabolicmusick.com</a></p>
+
+<p class="wb-stl-footer" style="text-align: center;"><a data-_="Link" href="https://www.georgedreemer.com" target="_blank" title="George Dreemer Official Website">georgedreemer.com</a></p>
+
+<p class="wb-stl-footer" style="text-align: center;"><a data-_="Link" href="https://www.dreemcorp.com" target="_blank" title="DREEMCORP Official Website">dreemcorp.com</a></p>
 </div><div id="a190eaf64b5300a4f41b135bc0b3b445" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><p class="wb-stl-footer" style="text-align: center;">Made with 💜 by <a data-_="Link" href="https://www.georgedreemer.com" target="_blank" title="George Dreemer Official Website">George Dreemer</a>.</p>
 </div><div id="a19ddf2e6dfe004054ad9daab8f0aaf3" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><p class="wb-stl-footer" style="text-align: center;"><strong>© 2026 DREEMCORP</strong></p>
-</div></div></div><div id="a190eaf8eaab00d6119428b4a8217299" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="a190eaf8eab000cf5465f1e330e31231" class="wb_element wb_element_picture" data-plugin="Picture" title="DREEMCORP George Dreemer Logo"><div class="wb_picture_wrap"><div class="wb-picture-wrapper"><a href="dreemcorp.com" title="DREEMCORP's Official Website"><img loading="lazy" alt="DREEMCORP George Dreemer Logo" src="gallery_gen/6742db93b980c975748be6c57a3e7e48_66x70_fit.png?ts=1777723267"></a></div></div></div></div></div><div id="wb_footer_c" class="wb_element" data-plugin="WB_Footer" style="text-align: center; width: 100%;"><div class="wb_footer"></div><script type="text/javascript">
+</div></div></div><div id="a190eaf8eaab00d6119428b4a8217299" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="a190eaf8eab000cf5465f1e330e31231" class="wb_element wb_element_picture" data-plugin="Picture" title="DREEMCORP George Dreemer Logo"><div class="wb_picture_wrap"><div class="wb-picture-wrapper"><a href="dreemcorp.com" title="DREEMCORP's Official Website"><img loading="lazy" alt="DREEMCORP George Dreemer Logo" src="gallery_gen/6742db93b980c975748be6c57a3e7e48_66x70_fit.png?ts=1777895129"></a></div></div></div></div></div><div id="wb_footer_c" class="wb_element" data-plugin="WB_Footer" style="text-align: center; width: 100%;"><div class="wb_footer"></div><script type="text/javascript">
 			$(function() {
 				var footer = $(".wb_footer");
 				var html = (footer.html() + "").replace(/^\s+|\s+$/g, "");
