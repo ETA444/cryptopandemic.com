@@ -18,7 +18,14 @@ Files are pulled from the cPanel server using `scripts/cpanel-sync.sh` and commi
 ## Structure
 ```
 cryptopandemic.com/
-├── public_html/        ← live site files (synced from server)
-└── scripts/
-    └── cpanel-sync.sh  ← cPanel sync script
+├── public_html/          ← site source (live)
+├── scripts/
+│   └── cpanel-sync.sh    ← cPanel sync script
+├── seo/                  ← seo-related files (not live)
+│   ├── htaccess
+│   ├── robots.txt
+│   ├── llms.txt
+│   ├── meta-tags.html
+│   └── schema.json
+└── README.md
 ```
