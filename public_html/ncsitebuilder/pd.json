@@ -68,7 +68,6 @@
         "FacebookFans": true,
         "pinterest": true,
         "telegram_widget": true,
-        "vkontakte_comment": true,
         "tiktok": true,
         "Twitter": true,
         "google_calendar": true,
@@ -361,10 +360,6 @@
             "Full",
             "Social"
         ],
-        "vkontakte_comment": [
-            "Full",
-            "Social"
-        ],
         "tiktok": [
             "Full",
             "Social"
@@ -436,5 +431,5 @@
     },
     "d": null,
     "f": 0,
-    "e": "6ac3dfd741816fbaaf176095b4883ca8814a2447"
+    "e": "0f09be48c67058bf63c815d209fb86b3f45ac69e"
 }
